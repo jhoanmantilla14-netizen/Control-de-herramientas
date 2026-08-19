@@ -1,0 +1,16 @@
+[
+    {
+        "id_herramienta": 1,
+        "nombre": "Taladro",
+        "fecha_inicio": "2026-08-18",
+        "fecha_finalizacion": "2026-08-25",
+        "observaciones": "Mantenimiento general"
+    },
+    {
+        "id_herramienta": 1,
+        "nombre": "Taladro",
+        "fecha_inicio": "2026-08-18",
+        "fecha_finalizacion": "2026-08-19",
+        "observaciones": "Mantenimiento General"
+    }
+]
